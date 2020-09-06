@@ -14,6 +14,8 @@ A general pre and post process framework for finite element analysis, such as AB
 <img src="https://github.com/Junjun1guo/prePostFEA/blob/master/misesStress.gif" width="480" height="350" /><img src="https://github.com/Junjun1guo/prePostFEA/blob/master/dispForce.gif" width="480" height="350" />
 
 ## Usage 
-1. __Generate finite element model__. If use commercial software,such as ABAQUS, you can write python script to establish FEM(referring abaqusPythonScript.py). If use open source software, such as OpenSees, you can also write python script to generate the input file(referring abaqusPythonScript.py). In additon, for two or three dimensional problems, [pygmsh](https://github.com/nschloe/pygmsh) can be used to mesh the model.
-and process the output database (abaqusODBProcess.py and saveDataToSqlite.py), then using 
+1. __Generate finite element model__. If use commercial software,such as ABAQUS, you can write python script to establish FEM(referring __abaqusPythonScript.py__). If use open source software, such as OpenSees, you can also write python script to generate the input file(referring __abaqusPythonScript.py__). In additon, for two or three dimensional problems, [pygmsh](https://github.com/nschloe/pygmsh) can be used to mesh the model.       
+2. __outPut process__.
+
+
  
