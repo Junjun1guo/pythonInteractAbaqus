@@ -1,7 +1,7 @@
 # prePostFEA
 A general pre and post process framework for finite element analysis, such as ABAQUS, OpenSees et al.
 
-![GitHub](https://img.shields.io/github/license/Junjun1guo/prePostFEA?color=red&logoColor=blue)(https://github.com/Junjun1guo/prePostFEA/blob/master/LICENSE)
+![GitHub](https://img.shields.io/github/license/Junjun1guo/prePostFEA?color=red&logoColor=blue) (https://github.com/Junjun1guo/prePostFEA/blob/master/LICENSE)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Junjun1guo/prePostFEA)
 ![GitHub top language](https://img.shields.io/github/languages/top/Junjun1guo/prePostFEA)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Junjun1guo/prepostFEA/numpy)
