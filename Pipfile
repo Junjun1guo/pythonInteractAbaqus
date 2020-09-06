@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pyvista = "==0.25.3"
+records = "==0.5.3"
+numpy = "==1.19.1"
+
+[requires]
+python_version = "3.6"

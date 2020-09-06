@@ -8,17 +8,11 @@
 ###导入必要的模块
 import numpy as np
 import pyvista as pv
-import pygmsh
 import ctypes
 import os
-import shutil
 import time
-import pyqtgraph as pg
 import array
-from numba import jit
-import meshio
 import re
-import json
 from saveDataToSqlite import SaveData
 
 class prePostPlot(object):
@@ -264,7 +258,7 @@ class prePostPlot(object):
 if __name__ == '__main__':
     dbPath="postResultDB.db"
     instance=prePostPlot(dbPath)
-     instance.prePlot()
+    instance.prePlot()
     componentMame="mises"
     colorValue=371000
     saveName="plasticStrain"

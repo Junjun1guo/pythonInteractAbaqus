@@ -8,8 +8,6 @@
 ###导入必要的模块
 import records
 import numpy as np
-from functools import wraps
-import json
 
 
 class SaveData(object):
