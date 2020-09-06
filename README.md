@@ -14,5 +14,5 @@ A general pre and post process framework for finite element analysis, such as AB
 <img src="https://github.com/Junjun1guo/prePostFEA/blob/master/misesStress.gif" width="480" height="350" /><img src="https://github.com/Junjun1guo/prePostFEA/blob/master/dispForce.gif" width="480" height="350" />
 
 ## Usage 
-1. Generate finite element model.
+1. __Generate finite element model__. If use commercial software, you can 
  
