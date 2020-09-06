@@ -11,8 +11,8 @@ A general pre and post process framework for finite element analysis, such as AB
 ![GitHub stars](https://img.shields.io/github/stars/Junjun1guo/prePostFEA)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Junjun1guo/prePostFEA)
 
-<div align=center><img width="500" height="400" src="https://github.com/Junjun1guo/prePostFEA/blob/master/misesStress.gif"/></div>
-<div align=center><img width="500" height="400" src="https://github.com/Junjun1guo/prePostFEA/blob/master/dispForce.gif"/></div>
+<div align=center><img width="500" height="300" src="https://github.com/Junjun1guo/prePostFEA/blob/master/misesStress.gif"/></div>
+<div align=center><img width="500" height="300" src="https://github.com/Junjun1guo/prePostFEA/blob/master/dispForce.gif"/></div>
 
 ## Usage 
 1. __Generate finite element model__. If use commercial software,such as ABAQUS, you can write python script to establish FEM(referring __abaqusPythonScript.py__). If use open source software, such as OpenSees, you can also write python script to generate the input file(referring __abaqusPythonScript.py__). In additon, for two or three dimensional problems, [pygmsh](https://github.com/nschloe/pygmsh) can be used to mesh the model.       
