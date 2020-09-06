@@ -11,7 +11,9 @@ A general pre and post process framework for finite element analysis, such as AB
 ![GitHub stars](https://img.shields.io/github/stars/Junjun1guo/prePostFEA)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Junjun1guo/prePostFEA)
 
+#prePostEFA# is a python script
+
 <img src="https://github.com/Junjun1guo/prePostFEA/blob/master/misesStress.gif" width="480" height="350" /><img src="https://github.com/Junjun1guo/prePostFEA/blob/master/dispForce.gif" width="480" height="350" />
 
-## Usage
+## Usage 
  
