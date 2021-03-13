@@ -6,16 +6,6 @@ Environemet: Successfully excucted in python 3.8
 ______
 A general pre and post process framework for finite element analysis, such as ABAQUS, OpenSees et al.
 
-[![GitHub](https://img.shields.io/github/license/Junjun1guo/pythonInteractAbaqus/edit?color=red&logoColor=blue)](https://github.com/Junjun1guo/pythonInteractAbaqus/edit/blob/master/LICENSE)
-[![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Junjun1guo/pythonInteractAbaqus/edit)](https://www.python.org/downloads/release/python-368/)
-![GitHub top language](https://img.shields.io/github/languages/top/Junjun1guo/pythonInteractAbaqus/edit)
-[![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Junjun1guo/pythonInteractAbaqus/edit/numpy)](https://numpy.org/)
-[![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Junjun1guo/pythonInteractAbaqus/edit/pyvista)](https://docs.pyvista.org/)
-[![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Junjun1guo/pythonInteractAbaqus/edit/records)](https://github.com/kennethreitz-archive/records)
-![GitHub repo size](https://img.shields.io/github/repo-size/Junjun1guo/pythonInteractAbaqus/edit?color=GREEN)
-![GitHub stars](https://img.shields.io/github/stars/Junjun1guo/pythonInteractAbaqus/edit)
-![GitHub last commit](https://img.shields.io/github/last-commit/Junjun1guo/pythonInteractAbaqus/edit)
-
 <img width="390" height="300" src="https://github.com/Junjun1guo/pythonInteractAbaqus/edit/blob/master/misesStress.gif"/><img width="390" height="300" src="https://github.com/Junjun1guo/pythonInteractAbaqus/edit/blob/master/dispForce.gif"/>
 
 ## Usage 
